@@ -1,17 +1,45 @@
-# Heart Disease Prediction
+# ❤️ Heart Disease Prediction
 
-This is a Machine Learning web application built using Streamlit.
+A Machine Learning web application built using **Streamlit** that predicts whether a person is at risk of heart disease based on medical parameters.
 
-## Features
+## 🚀 Live Demo
 
-- Predicts Heart Disease
-- KNN Machine Learning Model
-- User-friendly interface
+https://heart-disease-prediction-e78ex26dwpsb6wjmlejwbl.streamlit.app
 
-## Technologies Used
+## 📂 GitHub Repository
+
+https://github.com/MousumiBadyakar/Heart-Disease-Prediction
+
+## ✨ Features
+
+- Predicts heart disease risk
+- User-friendly web interface
+- KNN Machine Learning model
+- Real-time prediction
+- Interactive input fields
+
+## 🛠️ Technologies Used
 
 - Python
 - Streamlit
-- Scikit-learn
 - Pandas
+- NumPy
+- Scikit-learn
 - Joblib
+
+## 📁 Project Structure
+
+```
+Heart-Disease-Prediction/
+│── app.py
+│── knn_heart_model.pkl
+│── heart_scaler.pkl
+│── heart_columns.pkl
+│── heart.csv
+│── requirements.txt
+│── README.md
+```
+
+## 👩‍💻 Author
+
+**Mousumi Badyakar**
