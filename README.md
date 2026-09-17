@@ -6,10 +6,6 @@ A Machine Learning web application built using **Streamlit** that predicts wheth
 
 https://heart-disease-prediction-e78ex26dwpsb6wjmlejwbl.streamlit.app
 
-## 📂 GitHub Repository
-
-https://github.com/MousumiBadyakar/Heart-Disease-Prediction
-
 ## ✨ Features
 
 - Predicts heart disease risk
