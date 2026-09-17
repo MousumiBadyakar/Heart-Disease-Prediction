@@ -63,3 +63,5 @@ if st.button("Predict"):
         st.error("⚠️ High Risk of Heart Disease")
     else:
         st.success("✅ Low Risk of Heart Disease")
+
+    st.caption("⚠️ This prediction is an ML-based estimate and is not a medical diagnosis.")
