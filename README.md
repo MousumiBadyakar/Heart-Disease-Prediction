@@ -36,6 +36,13 @@ Heart-Disease-Prediction/
 │── README.md
 ```
 
+⚠️ Disclaimer
+
+This project is developed for educational and demonstration purposes only.
+
+The prediction provided by this application is an estimate based on the trained machine learning model and the input data provided. It is not a medical diagnosis and should not be used as a substitute for professional medical advice, diagnosis, or treatment.
+
+
 ## 👩‍💻 Author
 
 **Mousumi Badyakar**
