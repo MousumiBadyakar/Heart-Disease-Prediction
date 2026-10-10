@@ -212,8 +212,6 @@ Do not use this application to make healthcare decisions. Consult a qualified he
 
 **Mousumi Badyakar**
 
-- GitHub: [@MousumiBadyakar](https://github.com/MousumiBadyakar)
-
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
